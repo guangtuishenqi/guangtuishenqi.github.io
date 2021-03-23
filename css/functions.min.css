@@ -135,21 +135,21 @@ html.theme-dark .form-control {
     border-bottom-right-radius: 4px;
 }
     html.bg {
-        background: url(https://cdn.jsdelivr.net/gh/HCLonely/blog.hclonely.com@1.1.7/img/Butterfly/index.webp) center center no-repeat no-repeat fixed;
+        background: url(https://cdn.jsdelivr.net/gh/guangtuishenqi/guangtuishenqi.github.io/image/index.webp) center center no-repeat no-repeat fixed;
         background-size: cover
     }
     .cool-transparent .off-screen+* .app-content-body {
-        background: url(https://cdn.jsdelivr.net/gh/HCLonely/blog.hclonely.com@1.1.7/img/Butterfly/index.webp) center center no-repeat no-repeat fixed #6a6b6f;
+        background: url(https://cdn.jsdelivr.net/gh/guangtuishenqi/guangtuishenqi.github.io/image/index.webp) center center no-repeat no-repeat fixed #6a6b6f;
         background-size: cover
     }
     
     @media (max-width:767px) {
     html.bg {
-        background: url(https://cdn.jsdelivr.net/gh/HCLonely/blog.hclonely.com@1.1.7/img/Butterfly/index.webp) center center no-repeat no-repeat fixed #6a6b6f;
+        background: url(https://cdn.jsdelivr.net/gh/guangtuishenqi/guangtuishenqi.github.io/image/index.webp) center center no-repeat no-repeat fixed #6a6b6f;
         background-size: cover
     }
     .cool-transparent .off-screen+* .app-content-body {
-        background: url(https://cdn.jsdelivr.net/gh/HCLonely/blog.hclonely.com@1.1.7/img/Butterfly/index.webp) center center no-repeat no-repeat fixed #6a6b6f;
+        background: url(https://cdn.jsdelivr.net/gh/guangtuishenqi/guangtuishenqi.github.io/image/index.webp) center center no-repeat no-repeat fixed #6a6b6f;
         background-size: cover
     }
     }
