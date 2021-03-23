@@ -82,40 +82,12 @@ var searchFunc = function(path, search_id, content_id) {
 										  }
 										  }) }; var path = "../search.xml"; searchFunc(path, 'local-search-input', 'local-search-result');
         window['LocalConst'] = {
-          
-
-        
-
             //pjax
             IS_PJAX: '1',
             IS_PAJX_COMMENT: '1',
             PJAX_ANIMATE: 'default',
             PJAX_TO_TOP: '0',
             TO_TOP_SPEED: '80',
-
-            PAGE_ANIMATE: '',
-            THEME_COLOR: '14',
-            THEME_COLOR_EDIT: 'white-white-white',
-            THEME_HEADER_FIX: '1',
-            THEME_ASIDE_FIX: '1',
-            THEME_ASIDE_FOLDED: '',
-            THEME_ASIDE_DOCK: '',
-            THEME_CONTAINER_BOX: '1',
-            THEME_HIGHLIGHT_CODE: '1',
-            THEME_MATHJAX: '',
-            THEME_TOC: '1',
-            THEME_DARK_MODE: 'auto',
-            THEME_DARK_MODE_VALUE: 'auto',
-            SHOW_SETTING_BUTTON: '1',
-
-            THEME_DARK_HOUR: '18',
-            THEME_LIGHT_HOUR: '6',
-            THUMB_STYLE: 'normal',
-            AUTO_READ_MODE: '',
-
-
-
-
         };		
     /*点击复制微信号*/
 function copywx(){
