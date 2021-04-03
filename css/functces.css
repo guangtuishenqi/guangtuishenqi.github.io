@@ -106,13 +106,13 @@ html.theme-dark .form-control {
 .next a{color:#bcbdbd;}
 .previous a{color:#bcbdbd;}
 .left{display: inline-block;
-    background: url(/image/left.svg)no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/guangtuishenqi/guangtuishenqi.github.io/image/left.svg)no-repeat;
     height: 12px;
     width: 12px;
  ;
     vertical-align: -2px;}
 .right{display: inline-block;
-    background: url(/image/right.svg)no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/guangtuishenqi/guangtuishenqi.github.io/image/right.svg)no-repeat;
     height: 12px;
     width: 12px;
  ;
