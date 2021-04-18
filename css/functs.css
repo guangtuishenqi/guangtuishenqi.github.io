@@ -67,27 +67,7 @@ html.theme-dark .form-control {
     border-bottom:1px dashed #ccc;
 
 }
-.search-result-list li a{
-    color:black;
-}
-@media (min-width: 768px){
-    .search-result-list{
-        
-        
-    }
-}
-.search-result-title{
-    font-size: 16px;
-    
-}
-.search-result{
-    font-size: 16px;
-    
-}
-.search-keyword{
-    color:red;
-    
-}
+
 .setting_body{background-color: #000;}
 .copy a {
     text-decoration:none;
